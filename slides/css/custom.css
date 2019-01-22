@@ -1,0 +1,43 @@
+.lock img {
+  width: 3%;
+  height: 3%;
+}
+
+.full-thumbnail img {
+  width: 50%;
+  height: 50%;
+}
+
+.extra-full-thumbnail img {
+  width: 35%;
+  height: 35%;
+}
+
+.ridiculously-full-thumbnail img {
+  width: 20%;
+  height: 20%;
+}
+
+.inline-image img {
+  vertical-align: top;
+  margin-left: 35px;
+}
+
+.cloud-home {
+  margin-left: 20px;
+  margin-top: -20px;
+}
+
+
+li {
+    list-style: square outside none;
+}
+
+li {
+  font-size: 36px;
+}
+
+.remark-code, .remark-inline-code {
+  font-size: 28px;
+}
+
