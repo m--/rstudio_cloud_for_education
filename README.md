@@ -3,7 +3,7 @@ RStudio Cloud for Education
 
 This is the source of my slides for the *RStudio Cloud for Education* talk given at `rstudio::conf 2019`. These slides were created using the awesome [`xaringan`](https://github.com/yihui/xaringan) package.
 
-A good bit of my talk was a demo, so this is only part of it. I will update this README with a link to the recording once it is available.
+A good bit of this talk was a demo, and you can watch the whole thing [here](https://resources.rstudio.com/rstudio-conf-2019/rstudio-cloud-for-education).
 
 See also:
 
